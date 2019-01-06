@@ -4,4 +4,4 @@ project(problemsToSolve VERSION 0.0.1)
 
 set(CMAKE_CXX_FLAGS "-Wall -O2 -g")
 
-add_executable(run src/box-it.cpp)
+add_executable(run src/vector-sort.cpp)
