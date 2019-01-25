@@ -4,4 +4,4 @@ project(problemsToSolve VERSION 0.0.1)
 
 set(CMAKE_CXX_FLAGS "-Wall -O2 -g")
 
-add_executable(run src/rectangle-area.cpp)
+add_executable(run src/multi-level-inheritance.cpp)
