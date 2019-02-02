@@ -14,13 +14,6 @@ class Person{
         virtual void putdata() =0;
 
 };
-// void Person::getdata(){
-//     cin >> this->name >> this->age;
-// }
-
-// void Person::putdata(){
-//     cout << this->name << " " << this->age <<endl;
-// }
 
 class Professor : public Person{
     private:
